@@ -23,7 +23,7 @@ common:
     cancel: 'Cancel'
     retry: 'Retry'
 navbar:
-    siteName: 'The Big Dipper'
+    siteName: 'ZChain'
     version: 'beta'
     validators: 'Validators'
     blocks: 'Blocks'
@@ -35,7 +35,7 @@ navbar:
     chinese: "中文（繁）"
     simChinese: "中文（简）"
     license: 'LICENSE'
-    forkMe: 'Fork me!'
+    forkMe: ''
 consensus:
     consensusState: 'Consensus State'
     round: 'Round'

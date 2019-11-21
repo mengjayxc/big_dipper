@@ -23,7 +23,7 @@ common:
     cancel: '取消'
     retry: '重試'
 navbar:
-    siteName: '北斗'
+    siteName: 'ZChain'
     version: 'beta'
     validators: '驗證人'
     blocks: '區塊'
@@ -35,7 +35,7 @@ navbar:
     chinese: "中文（繁）"
     simChinese: "中文（简）"
     license: 'LICENSE'
-    forkMe: 'Fork me!'
+    forkMe: ''
 consensus:
     consensusState: '共識狀態'
     round: '輪數'
