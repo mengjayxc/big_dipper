@@ -1,6 +1,6 @@
 {
     "public":{
-        "chainName": "ZChain",
+        "chainName": "ZChain Testnet",
         "chainId": "zchain-test",
         "gtm": "{Add your Google Tag Manager ID here}",
         "slashingWindow": 10000,

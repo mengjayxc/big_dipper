@@ -273,7 +273,7 @@ export default class Proposal extends Component{
                 let totalVotingPower = this.props.chain.activeVotingPower * Meteor.settings.public.stakingFraction;
                 return <div>
                     <Helmet>
-                        <title>{this.props.proposal.content.value.title} | The Big Dipper</title>
+                        <title>{this.props.proposal.content.value.title} | The ZChain Explorer</title>
                         <meta name="description" content={this.props.proposal.content.value.description} />
                     </Helmet>
 
